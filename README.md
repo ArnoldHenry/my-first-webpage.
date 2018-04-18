@@ -3,6 +3,7 @@ Simple webpage design, 18/4/2018
 #### By **Arnold Henry and Joshua Kimani**
 ## Description
 This is a website for testing purposes
+![GitHub Logo](/images/wakanda.jpg)
 ## Setup/Installation Requirements
 No installation needed just open the .html files with your default browser
 ## Known Bugs
