@@ -1,0 +1,18 @@
+body{
+  background-color: #AFE4DA  ;
+}
+h1{
+  color: #FFFFFF;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
