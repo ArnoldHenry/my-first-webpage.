@@ -4,6 +4,7 @@ Simple webpage design, 18/4/2018
 ## Description
 This is a website for testing purposes
 ![GitHub Logo](images/wakanda.jpg)
+Format: ![Alt Text](url)
 ## Setup/Installation Requirements
 No installation needed just open the .html files with your default browser
 ## Known Bugs
