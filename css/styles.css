@@ -16,3 +16,9 @@ p {
 ul {
   line-height: 40px;
 }
+strong{
+  font-weight: bold;
+}
+em{
+  font-style: italic;
+}
